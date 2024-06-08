@@ -1,0 +1,19 @@
+{
+  "name": "keylogger",
+  "version": "1.0.0",
+  "description": "A simple keylogger for Linux written in Node.js",
+  "main": "keylogger.js",
+  "scripts": {
+    "start": "node keylogger.js"
+  },
+  "keywords": [
+    "keylogger",
+    "nodejs",
+    "linux"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "iohook": "^0.9.1"
+  }
+}
